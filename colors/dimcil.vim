@@ -1,4 +1,4 @@
-" Name:       dimcil.vim
+" Name:       dimcil.vim (based on pencil.vim)
 " Version:    0.1
 " Maintainer: github.com/mikker
 " License:    The MIT License (MIT)
